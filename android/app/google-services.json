@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492623053188",
+    "project_id": "cricket-app-133",
+    "storage_bucket": "cricket-app-133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492623053188:android:e6a9e703f57d97831c5dd1",
+        "android_client_info": {
+          "package_name": "com.cricket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHYS5jrGV6zcaJuGa-RaqZcTu-mIiBSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
